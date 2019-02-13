@@ -25,7 +25,7 @@ The function should return the index position of the ")" right after "h", in thi
 
 # Test 2
 
-Write a library to validate excel file format and its data. For this test, you will have to validate two type of excel file `Type_A` and `Type_B`.
+Write a NPM package to validate excel file format and its data. For this test, you will have to validate two type of excel file `Type_A` and `Type_B`.
 
 ## General Rules
 
